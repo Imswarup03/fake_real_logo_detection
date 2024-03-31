@@ -1,0 +1,1 @@
+Fake real logo detection using python
